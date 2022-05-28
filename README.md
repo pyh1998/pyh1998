@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Yuhui Pang
+
+- 🌱 I’m currently learning master of computing in Australian National University.
+
 <!--
 **pyh1998/pyh1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ![Github stats]( https://github-readme-stats.vercel.app/api?username=pyh1998&theme=highcontrast&show_icons=true&count_private=true )
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
+-->
+
+
