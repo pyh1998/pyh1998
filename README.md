@@ -2,7 +2,8 @@
 
 I am Yuhui Pang
 
-- 🌱 I’m currently learning master of computing in Australian National University.
+- 🔭 I’m currently working in Shanghai.
+- 🌱 I graduated with a Master's degree in Computer Science from the Australian National University.
 - 🔭 Relevant Coursework: Structured programming, Networked Information System, Discrete Mathematics, Software
 Construction, Mathematics in ML, Relational Database, Data Mining, Statistical Machine Learning, Document Analysis
 - 📫 How to reach me: pyh980425@163.com
